@@ -3,7 +3,11 @@
     <string name="error">An error has occurred. Please make sure that you have an internet connection.</string>
     <string name="most_popular">Most Popular</string>
     <string name="top_rated">Top Rated</string>
+    <string name="favorite">Favorite</string>
     <string name="overview">Overview</string>
     <string name="details_title_year">%1$s (%2$d)</string>
     <string name="details_votes">%1$.1f/10 based on %2$d reviews</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="title_p2">Movies</string>
 </resources>
